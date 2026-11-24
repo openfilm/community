@@ -1,0 +1,49 @@
+{
+  "name": "magpie-gateway",
+  "repo": "https://github.com/cxt888/openfilm-magpie-gateway",
+  "path": "skills/magpie-gateway",
+  "version": "1.0.0",
+  "commit": "f99248a76471bbcfda5356fcfb50e76b8d4d5863",
+  "files": [
+    {
+      "path": "connection.mjs",
+      "size": 1172,
+      "sha256": "3c01d1c59754986d46ba94b5e0f0fed15f254f4e12038c0ba66a9db5b9034bf3"
+    },
+    {
+      "path": "gateway.mjs",
+      "size": 3881,
+      "sha256": "d91bbf3c461887141a96ced6826d7bf73ca95287e6ed89fe44450a3b42b9c2ff"
+    },
+    {
+      "path": "LICENSE",
+      "size": 1092,
+      "sha256": "bcd3e71abd31a74adac7dfe4c42696d63603ab1f6cf31d59299e8dcef1a311f1"
+    },
+    {
+      "path": "openfilm.json",
+      "size": 1489,
+      "sha256": "75056c0607fc30d14d968a0c5656f7c15ce7ba7caf50053d95bc01bfce1d99a9"
+    },
+    {
+      "path": "package.json",
+      "size": 174,
+      "sha256": "09b9af7f0474aabe36c291b387ea2ab76292c0a78703ce91790562f1c38868a9"
+    },
+    {
+      "path": "red-test.png",
+      "size": 135,
+      "sha256": "614ff3ce6fdedb811796053456592e2844189d47e5e5329a1634889c09ad5f95"
+    },
+    {
+      "path": "SKILL.md",
+      "size": 1218,
+      "sha256": "6129fecb8b3461147ec6dcd828bab28950df2cd8bd63b184ff2d384f7870e132"
+    },
+    {
+      "path": "workbench.js",
+      "size": 3956,
+      "sha256": "55872d11deb9a3c2274d689e36b29a6dd42ab9b5d01328b690adcd9210d513c7"
+    }
+  ]
+}
